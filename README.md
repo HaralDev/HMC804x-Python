@@ -1,6 +1,12 @@
 # HMC804x interface for Python
 Python interface for Rohde & Schwarz HMC8041, HMC8042, HMC8043 all in one class, using [PyVisa](https://pyvisa.readthedocs.io/en/latest/).
 
+
+<p align="center">
+<img src="https://github.com/HaralDev/HMC804x-Python/blob/master/HMC904x_setup.png" width="400">
+  <br>Figure 1: Rohde & Schwarz HMC devices - three HMC8041 and one HMC8042 (top right)
+</p>
+
 # Workings
 Class works with all three HMC804x devices, might work with other similar product which use [SCPI commands](https://cdn.rohde-schwarz.com/pws/dl_downloads/dl_common_library/dl_manuals/gb_1/h/hmc804x/HMC804x_SCPI_ProgrammersManual_en_02.pdf). The power supply has to be connected to the same network as the computer used.
 
