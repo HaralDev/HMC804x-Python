@@ -1,5 +1,5 @@
 # HMC804x interface for Python
-Python interface for Rohde & Schwarz HMC8041, HMC8042, HMC8043 all in one class, using [PyVisa](https://pyvisa.readthedocs.io/en/latest/).
+Python interface for Rohde & Schwarz [HMC8041, HMC8042, HMC8043](https://www.rohde-schwarz.com/nl/product/hmc804x) all in one class, using [PyVisa](https://pyvisa.readthedocs.io/en/latest/).
 
 
 <p align="center">
